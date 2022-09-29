@@ -1,0 +1,62 @@
+body
+{
+    background-color: black;
+}
+
+.item
+{
+    margin-right: 20px;
+    margin-left: 20px;
+    font-weight: 500;
+}
+
+.item a
+{
+    color: #6C91BF;
+}
+
+.item a:hover
+{
+    color: #94b2d6;
+}
+
+.logo
+{
+    color: #6C91BF;
+}
+
+.logo:hover
+{
+    color: #6C91BF;
+}
+
+.carouseltop
+{
+    margin-top: 10px;
+}
+
+.coverimg
+{
+    width:80%;
+    height:30%;
+}
+
+.carousel-caption
+{
+    color: white;
+    font-size: x-large;
+}
+
+.teams
+{
+    margin-top: 10px;
+}
+.teamcontent
+{
+    margin-top: 10px;
+    background-color: black;
+    color: white;
+    border-style:solid ;
+    border-width: thick;
+    border-color: #6C91BF;
+}
