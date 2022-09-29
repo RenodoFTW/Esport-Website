@@ -17,7 +17,7 @@ body
 
 .item a:hover
 {
-    color: #94b2d6;
+    color: #aeff18
 }
 
 .logo
@@ -27,7 +27,7 @@ body
 
 .logo:hover
 {
-    color: #6C91BF;
+    color: #aeff18;
 }
 
 .carouseltop
@@ -51,6 +51,7 @@ body
 {
     margin-top: 10px;
 }
+
 .teamcontent
 {
     margin-top: 10px;
@@ -58,5 +59,27 @@ body
     color: white;
     border-style:solid ;
     border-width: thick;
-    border-color: #6C91BF;
+    border-color: #aeff18;
 }
+
+.title
+{
+    color: white;
+    margin-top: 100px;
+}
+
+.extrabtn
+{
+    background-color: #aeff18;
+    color: #6C91BF;
+}
+
+.extrabtn:hover
+{
+    background-color: #6C91BF !important;
+    color: #aeff18 !important;
+    border-style:solid ;
+    border-width: thin;
+    border-color: #aeff18;
+}
+
