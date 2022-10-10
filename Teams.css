@@ -1,0 +1,101 @@
+body
+{
+    background-color: black;
+}
+
+.item
+{
+    margin-right: 20px;
+    margin-left: 20px;
+    font-weight: 500;
+}
+
+.item a
+{
+    color: #6C91BF;
+}
+
+.item a:hover
+{
+    color: #aeff18
+}
+
+.logo
+{
+    color: #6C91BF;
+    height: 100%;
+    width: 10%;
+}
+
+.logo:hover
+{
+    color: #aeff18;
+}
+
+.carouseltop
+{
+    margin-top: 10px;
+}
+
+.coverimg
+{
+    width:80%;
+    height:10%;
+}
+
+.teams
+{
+    margin-top: 10px;
+}
+
+.teamcontent
+{
+    margin-top: 10px;
+    background-color: black;
+    color: white;
+    border-style:solid ;
+    border-width: thick;
+    border-image: linear-gradient(to bottom, #aeff18, #6C91BF);
+    border-image-slice: 2;
+}
+
+.title
+{
+    font-size: 72px;
+    background: -webkit-linear-gradient(#aeff18, #6C91BF,#6C91BF,#aeff18);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-top: 100px;
+}
+
+.extrabtn
+{
+    background-color: #aeff18;
+    color: #6C91BF;
+}
+
+.extrabtn:hover
+{
+    background-color: #6C91BF !important;
+    color: #aeff18 !important;
+    border-style:solid ;
+    border-width: thin;
+    border-color: #aeff18;
+}
+
+.Gamelogo
+{
+    border-style:solid ;
+    border-width: thick;
+    border-image: linear-gradient(to bottom, #aeff18, #6C91BF);
+    border-image-slice: 2;
+    width: 20%;
+    height: 20%;
+}
+
+.Gamecontainer
+{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+}
